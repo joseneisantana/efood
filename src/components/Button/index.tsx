@@ -1,7 +1,6 @@
 // Importa os componentes estilizados necessários do arquivo styles
 import { StandardButton, LinkButton } from './styles'
-
-
+// Define o tipo das propriedades esperadas pelo componente Button
 type Props = {
   title: string // Título do botão, utilizado para acessibilidade
   type: 'button' | 'link' | 'submit' // Tipo do botão, pode ser 'button', 'link' ou 'submit'
