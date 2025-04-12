@@ -13,6 +13,7 @@ root.render(
   </StrictMode>
 )
 
+
 // Função para medir a performance da aplicação
 // Para começar a medir a performance, passe uma função para logar os resultados (por exemplo: reportWebVitals(console.log))
 // ou envie para um endpoint de analytics. Saiba mais: https://bit.ly/CRA-vitals
